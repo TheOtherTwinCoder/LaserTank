@@ -53,6 +53,18 @@ ________________________________________________________________________________
 
 -2 N7000 transistors
 
+# More pics!!
+<img width="4000" height="2256" alt="PXL_20260716_215403281" src="https://github.com/user-attachments/assets/2cabc44f-3c5f-42ef-8333-fea3987c6244" />
+
+<img width="4000" height="2256" alt="PXL_20260716_215400277" src="https://github.com/user-attachments/assets/48e81a1f-36c7-4830-a69f-b4a7836d0cbd" />
+
+<img width="2256" height="4000" alt="PXL_20260716_215357971" src="https://github.com/user-attachments/assets/e92eabbf-168e-41b9-820d-1e716833ee61" />
+
+<img width="2256" height="4000" alt="PXL_20260716_215355211" src="https://github.com/user-attachments/assets/65637f0a-3a03-487f-8c50-2582a1037d98" />
+
+<img width="2256" height="4000" alt="PXL_20260716_215352998" src="https://github.com/user-attachments/assets/570291b4-199d-42c7-ad86-271ad858a436" />
+
+
 -2 10k ohm resistors
 
 -2 L298N Mini Motor controllers
