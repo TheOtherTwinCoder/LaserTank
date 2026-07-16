@@ -1,6 +1,7 @@
 #LASER TANKS
 
 A pair of remote-controlled vehicles armed with lasers battle it out!!
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #Features
 
@@ -16,7 +17,7 @@ A pair of remote-controlled vehicles armed with lasers battle it out!!
 
 +LiPo battery power
 
-
+___________________________________________________________________________________________________________________________________________________________________
 #Bom
 
 -4 3d printd wheels and wheel fixtures
